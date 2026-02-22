@@ -47,4 +47,4 @@ Our privacy policy was influenced by [DuckDuckGo](https://duckduckgo.com/)'s pri
 
 ## Feedback
 
-If you have any questions or comments about our privacy policy, feel free to get in touch at hello@logicbite.org.
+If you have any questions or comments about our privacy policy, feel free to get in touch at yukio@incinerator.xyz.
