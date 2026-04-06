@@ -39,7 +39,7 @@ Like any other company, we will comply with court ordered requests for informati
 
 ## Updates
 
-If we update this security policy, we will provide notice to you by way of an in-app notification and keep a log on this page (https://vex.chat/privacy-policy) of the change history. The privacy policy will be kept in a [public git repository](https://github.com/vex-chat/privacy-policy), so every change will be viewable in a diff-like format.
+If we update this security policy, we will provide notice to you by way of an in-app notification and keep a log on this page (https://vex.chat/privacy-policy) of the change history. The privacy policy will be kept in a [public git repository](https://github.com/vex-protocol/privacy-policy), so every change will be viewable in a diff-like format.
 
 ## Hat Tips
 
@@ -47,4 +47,4 @@ Our privacy policy was influenced by [DuckDuckGo](https://duckduckgo.com/)'s pri
 
 ## Feedback
 
-If you have any questions or comments about our privacy policy, feel free to get in touch at yukio@incinerator.xyz.
+If you have any questions or comments about our privacy policy, feel free to get in touch at yuki@vex.wtf.
